@@ -1,4 +1,4 @@
-# WeatherApp
+[# WeatherApp](https://utkarshhjha.github.io/WatherApp/)
 
 A simple and visually appealing weather application that provides current weather information for any city. The app fetches data from the OpenWeather API and displays temperature, weather conditions, humidity, and wind speed.
 
